@@ -1,7 +1,7 @@
 # game.py
 import random
 from words import WORDS
-from stages import STAGES
+from ascii_art import STAGES
 
 
 def get_random_word():
